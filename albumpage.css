@@ -1,0 +1,80 @@
+/*start of navbar css code*/
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f4f4f4;
+}
+
+li 
+{
+    float: right;
+    display: inline;    
+}
+
+li a
+{
+    display: block;
+    color: #dcd0c0;
+    text-align: center;
+    padding: 15px 11px;
+    text-decoration: none;
+}
+
+li a:hover 
+{
+    background-color: #373737;
+}
+/*end of navbar css code*/
+
+body
+{
+	background-color:#dcd0c0;
+}
+	
+h1
+{
+	color:white;
+	font-size:45pt;
+	border-style: groove;
+	text-align:center;
+}
+
+
+body
+{
+	background-image: url('Album Page Pic.jpg');
+}
+	
+table
+{
+	width:100%;
+	background-color:#dcd0c0;
+}
+
+table, th, td 
+{
+    border: 10px solid white;
+    border-collapse: collapse;
+    color:white
+}
+
+h2
+{
+ color:white
+}
+
+#para1
+{
+text-align:center;
+}
+
+img
+{
+	width:100px;
+	height:100px;
+	display: block;
+	margin: auto;
+}

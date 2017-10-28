@@ -1,0 +1,112 @@
+/*start of navbar css code*/
+#navbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #373737;
+}
+   
+#linav
+{
+    float: right;
+    display: inline;    
+}
+
+#linav a
+{
+    display: block;
+    color: #dcd0c0;
+    text-align: center;
+    padding: 15px 11px;
+    text-decoration: none;
+}
+
+#linav a:hover 
+{
+    background-color:#f4f4f4;
+}
+
+#linav2
+{
+    float: right;
+    display: inline;    
+}
+
+#linav2 a
+{
+    display: block;
+    color: #dcd0c0;
+    text-align: center;
+    padding: 15px 11px;
+    text-decoration: none;
+}
+
+#linav2 a:hover 
+{
+    background-color:#f4f4f4;
+}
+
+#linav3
+{
+    float: right;
+    display: inline;    
+}
+
+#linav3 a
+{
+    display: block;
+    color: #dcd0c0;
+    text-align: center;
+    padding: 15px 11px;
+    text-decoration: none;
+}
+
+#linav3 a:hover 
+{
+    background-color:#f4f4f4;
+}
+
+#linav4
+{
+    float: right;
+    display: inline;    
+}
+
+#linav4 a
+{
+    display: block;
+    color: #dcd0c0;
+    text-align: center;
+    padding: 15px 11px;
+    text-decoration: none;
+}
+
+#linav4 a:hover 
+{
+    background-color:#f4f4f4;
+}
+
+#linav5
+{
+    float: right;
+    display: inline;    
+}
+
+#linav5 a
+{
+    display: block;
+    color: #dcd0c0;
+    text-align: center;
+    padding: 15px 11px;
+    text-decoration: none;
+}
+
+#linav5 a:hover 
+{
+    background-color:#f4f4f4;
+}
+
+/*end of navbar css code*/
+

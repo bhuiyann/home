@@ -1,0 +1,72 @@
+/*start of navbar css code*/
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #373737;
+}
+
+li 
+{
+    float: right;
+    display: inline;    
+}
+
+li a
+{
+    display: block;
+    color: #dcd0c0;
+    text-align: center;
+    padding: 15px 11px;
+    text-decoration: none;
+}
+
+li a:hover 
+{
+    background-color:#f4f4f4;
+}
+/*end of navbar css code*/
+
+body
+{
+background-image: url('artistspage.jpg');
+}
+
+img
+{
+width:550px;
+height:400px
+}
+
+img
+{
+display: block;
+margin: auto;
+}
+
+h1
+{
+text-align:center;
+color: #f4f4f4;
+}
+
+h2
+{
+text-align:center;
+color: #f4f4f4;
+}
+
+h3
+{
+text-align:center;
+color: #f4f4f4;
+}
+
+p
+{
+text-align:center;
+color: #f4f4f4;
+}
+
